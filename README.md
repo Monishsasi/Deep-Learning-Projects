@@ -125,7 +125,7 @@ Imbalanced-learn
 ####  Clone repository
 ```
 git clone https://github.com/Monishsasi/Deep-Learning-Projects.git
-cd <Project-Folder-Name>
+cd <Project-Folder-Name>    # Replace with the folder you want to run, e.g., "Loan Default Prediction"
 ```
 
 ####  Install dependencies
